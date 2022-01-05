@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MicroFame 2022</string>
+
+    <!--activity_main-->
+    <string name="Udvozollek_a_MicroFamen_txt">Üdvözöllek a MicroFamen!</string>
+    <string name="Email_cim_txt">Email Cím</string>
+    <string name="Jelszo_txt">Jelszó</string>
+    <string name="Bejelentkezes_btn">Bejelentkezés</string>
+    <string name="Elfelejtett_jelszo_txt">Elfelejtett jelszó?</string>
+    <string name="Nincs_meg_fiokod_txt">Nincs még fiókod?</string>
+    <string name="Regisztralj_btn">Regisztrálj</string>
+    <!--activity_main-->
+
+    <!--activity_register-->
+    <string name="Kerlek_regisztralj_txt">Kérlek regisztrálj</string>
+    <string name="Teljes_nev_txt">Teljes név</string>
+    <string name="Jelszo_ujra_txt">Jelszó újra</string>
+
+</resources>
